@@ -54,12 +54,6 @@ wazuh-fim-virustotal-lab/
 ├── README.md                          # File ini
 ├── docs/
 │   └── Wazuh-Home-Lab-FIM-VirusTotal-Guide.pdf
-├── scripts/
-│   └── remove-threat.sh               # Active response script
-├── config/
-│   ├── agent-syscheck.conf.example
-│   └── manager-integration.conf.example
-└── screenshots/                       # (opsional) gambar pendukung
 ```
 
 ## Cara Menjalankan Lab (Ringkas)
