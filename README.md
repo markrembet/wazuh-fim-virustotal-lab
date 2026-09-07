@@ -6,7 +6,7 @@
 
 Dokumentasi laboratorium keamanan siber untuk demonstrasi **File Integrity Monitoring (FIM)**, integrasi **VirusTotal**, dan **Active Response** otomatis menggunakan platform open-source **Wazuh**.
 
-> Lab ini dirancang untuk pembelajaran dan portfolio. Cocok ditampilkan di GitHub sebagai bukti praktik SIEM, endpoint detection, dan threat intelligence integration.
+> Lab ini dirancang untuk pembelajaran dan portfolio praktik SIEM, endpoint detection, dan threat intelligence integration.
 
 ---
 
