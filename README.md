@@ -69,7 +69,6 @@ wazuh-fim-virustotal-lab/
 Panduan lengkap langkah-demi-langkah tersedia di:
 
 - [PDF Guide](docs/Wazuh-Home-Lab-FIM-VirusTotal-Guide.pdf)
-- [DOCX Guide](docs/Wazuh-Home-Lab-FIM-VirusTotal-Guide.docx) *(jika Anda menyertakan)*
 
 ## Keamanan
 
