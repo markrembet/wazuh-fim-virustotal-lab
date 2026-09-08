@@ -86,7 +86,7 @@ Panduan lengkap langkah-demi-langkah tersedia di:
 
 ## Lisensi
 
-Konten dokumentasi lab ini dapat digunakan untuk keperluan pembelajaran dan portfolio.  
+Konten dokumentasi lab ini dapat digunakan untuk keperluan pembelajaran.  
 Wazuh sendiri berlisensi GPLv2. Hormati Terms of Service VirusTotal saat menggunakan API.
 
 ---
